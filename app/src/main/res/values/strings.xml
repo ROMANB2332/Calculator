@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LesyukCalculator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Калькулятор</string>
+    <string name="second_fragment_label">Обчислення...</string>
+    <string name="next">Почати</string>
+
+
+    <string name="hello_first_fragment">Роман Лесюк</string>
+    <string name="result">" "</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button0">0</string>
+    <string name="addictedField">Оберіть дію</string>
+    <string name="buttonAdd">+</string>
+    <string name="buttonSub">-</string>
+    <string name="buttonMul">*</string>
+    <string name="buttonDiv">/</string>
+    <string name="buttonEnd">=</string>
+    <string name="buttonKoma">.</string>
+    <string name="buttonClear">Очистити</string>
+</resources>
